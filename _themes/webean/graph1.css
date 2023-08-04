@@ -1,0 +1,64 @@
+.mstheme
+{
+}
+.mstheme-bannertxt
+{
+	font-family: Comic Sans MS;
+	color: rgb(255, 255, 255);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	color: rgb(0, 153, 153);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	color: rgb(255, 255, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	color: rgb(153, 255, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	color: rgb(153, 255, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	color: rgb(153, 255, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	color: rgb(153, 255, 51);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+}
+ul ul
+{
+}
+ul ul ul
+{
+}
